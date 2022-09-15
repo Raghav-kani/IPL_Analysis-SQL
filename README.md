@@ -15,8 +15,8 @@ It allows us to table a specific table or column from a table, as well as merge 
 
 1.3 PROJECT GOAL
 
-  >  The project's purpose is to assess individual players based on their historical performance using the provided data. 
-  >  We were able to obtain fresh data for a specific player from the existing data through this analysis. 
-  >  In this project, we utilize MYSQL and several queries to extract the essential data from the given data. 
-  >  We also utilize MS Excel to present the data in the form of tables and charts. The basic purpose of a pivot table is to compare different players from various perspectives. 
-  >  We were able to see the performance of each individual player as a result of this analysis.
+The project's purpose is to assess individual players based on their historical performance using the provided data. 
+We were able to obtain fresh data for a specific player from the existing data through this analysis. 
+In this project, we utilize MYSQL and several queries to extract the essential data from the given data. 
+We also utilize MS Excel to present the data in the form of tables and charts. The basic purpose of a pivot table is to compare different players from various perspectives. 
+We were able to see the performance of each individual player as a result of this analysis.

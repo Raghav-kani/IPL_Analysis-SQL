@@ -3,7 +3,7 @@
 1.1 CONTEXT
 
     The project's hypotheses are to analyze each player's performance based on their previous performance using a correct table that is derived using proper command and visualized using a chart from the table (2018-2020).
-    
+  
     
 1.2 PROJECT SCOPE
 
